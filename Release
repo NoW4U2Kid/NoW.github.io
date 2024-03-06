@@ -1,8 +1,15 @@
-Date: Wed, 06 Mar 2024 01:43:23 +0000
+Origin: NoW
+Label: NoW's repo
+Suite: stable
+Version: 1.0
+Codename: nowrepo
+Architectures: iphoneos-arm64
+Components: main
+Description: NoW's jailbreak repo!Date: Wed, 06 Mar 2024 01:49:21 +0000
 MD5Sum:
  faa0f087447f563b4efa79c41dd01c7e              653 Packages
  58b3b5fc5e26e083c05e45313b2a167f              504 Packages.bz2
- 7847b5826f07053e569e5f0f434667ee              473 Packages.gz
+ 7ecb42115bd9bce684c1279b9107b3fe              473 Packages.gz
  8a7593261fae884e1f93ec521d9aca40              633 Packages.lz4
  193c3541a4686e2af9c5480071252e65              498 Packages.lzma
  bc97a3c5a543750f08d428eb57ad5402              544 Packages.xz
@@ -10,7 +17,7 @@ MD5Sum:
 SHA1:
  e9d5cdd36221d717964c617f1db424705f133881              653 Packages
  435ee57ecd752559fa5cab5f4435412d9d863a55              504 Packages.bz2
- d163d8d83feb3414cd96519c2ce0f6a4a225e7de              473 Packages.gz
+ 654b9bc26868b06d949508a7ae51b9dfa1bdff88              473 Packages.gz
  b62d0f33ce0de64181c258009d762a2c0320bfdb              633 Packages.lz4
  4ea644785b4ee33b1bcbf7b6a95715648ce1f005              498 Packages.lzma
  4afba1ae6555325729f192a2686a18bfed144f17              544 Packages.xz
@@ -18,7 +25,7 @@ SHA1:
 SHA256:
  9a7695f183621b679aa6cf6718687f505b858b7366afcc56cd3d650afd605848              653 Packages
  0d5292a8262acb851a68a1620ddee1d8db117db510ba7480491a5003d9c32d0e              504 Packages.bz2
- 37e115633f4e725288bf5869a50f318d31f0a0edf24ea38673999c449cc793bb              473 Packages.gz
+ f682536a69cd07da1c263c2bfc5930eb4df173073d4b54fff65a7f2ef6409b99              473 Packages.gz
  1d0ac6ac0d817c20b43695977bcb77e8158869d0b9444926476c39dc35b71a01              633 Packages.lz4
  d9ff83b1fc7030067be4d94bb02303c27f5a8e53d8dd09f8cd37f0e8b078c178              498 Packages.lzma
  27498f736dbbffe06f1d058bf800472899aac515b48012f8b70aa9daddf882b3              544 Packages.xz
@@ -26,7 +33,7 @@ SHA256:
 SHA512:
  f1bd8a379db9a597c89c97e6c035f5e7abaaf30d06b8465886bb8cda3a0a4757039535b3394ca749bac40bb7b1bb0f835f4b9eed8b128cea37f4a191baf94175              653 Packages
  16ad28142dacb2fa5c859476320abd4b53321e6748315ae55ea3c265ad8415ecfda7f239b2505e411b40d8109200462e1cc48029579f0e64ad92399e53c502d6              504 Packages.bz2
- 66091834575aeedbf6a354f79daf7185aa3f37aafdaaf63ff9eb1fe7a12a40bb57918ac39d1dc79830d0653e046e6d5077cb6303bfe07fdb30a8a9244c6c7cc6              473 Packages.gz
+ c3d458d4414fc140a48d1587f82802a3cff621846369182416f49a223c17ff1046a4778cce91ad99e0e950c2997eb2e8d28d93bd40e895d3b6fee1626ce747e0              473 Packages.gz
  f1268fa93f359ef8ea93e56f5727e9612ccc7ec92031d2c6f4f8c6a73bca4908b879c66a01c1fc2138373efc0403611081aa2151f16a860e7a2a2c6ff604e7f5              633 Packages.lz4
  9171204f0cd3b742929d9ee4280a162761908b22c166b36b790d492c4ad11b9d84bb0805e04e8bc04cb488070db2d7f84855ef27f61b1d38195bd776e914f9de              498 Packages.lzma
  41da5cbbb8dff1d5e94b178a88256587b1c90ae1bbaacaa9a9f029ac06038bedd1abeee233f5ea954f42b1119e10cfdc9190c55462787f8a30ab9fa37cae817f              544 Packages.xz
