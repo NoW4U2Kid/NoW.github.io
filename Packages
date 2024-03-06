@@ -1,5 +1,23 @@
 Package: com.now.mooner
 Architecture: iphoneos-arm64
+Version: 1.0.1
+Section: Tweaks
+Maintainer: NoW
+Installed-Size: 608
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), preferenceloader
+Filename: ./debs/com.now.mooner_1.0.1_iphoneos-arm64.deb
+Size: 93296
+MD5sum: 2bc5d22ac6c9e38cf627040dff61176b
+SHA1: 67a34452b9c8254c021595a8375c08d12a2723fa
+SHA256: d33c54405314f83bb1dac8379dbb4bea028f9e181dd85cc1aa47591aecc602f8
+SHA512: 7c56b5b5cc82ce449e6148a2337d63834fe9b1b30cc7b786d217e08ce3efc5e70b186e73814bce696ca0dd5d2c4be433ab2d3e265a2da1ac345f9d8166875cde
+Description: The moon moons on you from its perch in the night sky...
+Name: Mooner
+Author: NoW
+Icon: https://nowisdev.github.io/icons/Mooner.png
+
+Package: com.now.mooner
+Architecture: iphoneos-arm64
 Version: 1.0
 Section: Tweaks
 Maintainer: NoW
